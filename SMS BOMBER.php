@@ -6,10 +6,9 @@
 1njection- Sms Bomber
 </title>
 </head>
-<body background="https://4.bp.blogspot.com/-sCkHAIH_vHo/V4IrSeQzDxI/AAAAAAAAClg/R2-FiXjWVlMeV7qCujtPOh14QPmo_ZlAACLcB/s1600/Scree3nshot_4.jpg">
 
 <form name="mailbomb" action="smsbomber.php" method="POST">
-<p><label for="oper"><b><font size="5" color=ff0909  >SMS BOMBER V1.0 BY KYXRECON :</b></font></label><br>
+<p><label for="oper"><b><font size="5" color=ff0909  >SMS BOMBER V1.0 BY Prince Chaurasia :</b></font></label><br>
 <p><label for="oper"><b><font size="5" color=ffffff  >Victim mobile operator :</b></font></label><br>
 
 <select size="1" name="oper">
