@@ -16,6 +16,7 @@
 <option value=>Select Operator</option>
 <option value="@aircel.co.in">Aircel India</option>
 <option value="@airtelap.com">Airtel Andhra Pradesh, India</option>
+  <option value="@airtelap.com">Jio India, India</option>
 <option value="@airtelkk.com">Airtel Karnataka, India</option>
 <option value="@msg.acsalaska.com">Alaska Communications USA</option>
 <option value="@sms.wirefree.informe.ca">Aliant Canada</option>
